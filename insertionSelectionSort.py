@@ -57,3 +57,4 @@ print("-" * 60)
 
 for res in resultados:
     print(f"{res[0]:<25} | {res[1]:<15} | {res[2]:<15}")
+    
