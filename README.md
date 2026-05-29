@@ -7,3 +7,7 @@ python insertionSelectionSort.py
 
 Para executar o código mergeSort e quickSort, basta clonar o repositório, acessar a pasta com o terminal e usar o seguinte comando:
 python mergeSortQuickSort.py
+
+Para executar o código da atividade 2, basta clonar o repositório, acessar a pasta com o terminal e usar o seguinte comando:
+python atividade2-1.py
+python atividade2-2.py
